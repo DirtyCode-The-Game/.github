@@ -2,10 +2,6 @@
 
 > **Um jogo web sobre desenvolvedores, café ruim e a realidade suja do desenvolvimento de software**
 
-[![License](https://img.shields.io/badge/license-Open%20Source-blue.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Community](https://img.shields.io/badge/community-Discord%20%2B%20WhatsApp-purple.svg)](COMMUNITY.md)
-
 ---
 
 ## 📖 Sobre o Projeto
