@@ -100,9 +100,23 @@ O jogo está repleto de referências à cultura tech brasileira:
 
 Este é um **projeto comunitário aberto**! Qualquer pessoa pode contribuir, desde que siga nossas diretrizes:
 
-### Processo de Contribuição
+Se você quer começar agora mesmo:
 
-1. **Entre na comunidade**: Participe do Discord e WhatsApp (links nos vídeos do canal)
+1. **Clone os repositórios**:
+   - [Frontend](https://github.com/DirtyCode-The-Game/dirty-code-frontend)
+   - [Backend](https://github.com/DirtyCode-The-Game/dirty-code-backend)
+
+2. **Leia os READMEs** de cada projeto para entender a estrutura e como rodar localmente
+
+3. **Pegue uma tarefa** no nosso board de projetos:
+   - 📋 **[Board de Tarefas](https://github.com/orgs/DirtyCode-The-Game/projects/1)**
+   - Escolha uma issue que esteja disponível
+   - Comente na issue que você vai trabalhar nela
+   - Comece a desenvolver!
+
+### Processo
+
+1. **Entre na comunidade**: Participe do [Discord](https://discord.gg/p9nmMsAR) e [WhatsApp](https://chat.whatsapp.com/GolG43QKMjQ0woQxY2KTKK)
 2. **Escolha uma issue**: Veja as tarefas disponíveis no GitHub
 3. **Faça um fork**: Clone o repositório
 4. **Crie uma branch**: Siga o Git Flow (`feature/nome-da-feature`)
